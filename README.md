@@ -10,9 +10,9 @@
 
 - 📫 How to reach me: 
 
-- [class="icon-linkedin social-button grey" href="https://www.linkedin.com/in/robnascimento/"](robnascimento)
+- <a class="icon-linkedin social-button grey" href="https://www.linkedin.com/in/robnascimento/"><\a>(robnascimento)
 
-- [class="fa \faEnvelope" href=grosbno@gmail.com](grosbno@gmail.com)
+- <a class="fa \faEnvelope" href="grosbno@gmail.com"><\a>(grosbno@gmail.com)
 
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
