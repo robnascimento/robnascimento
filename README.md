@@ -1,14 +1,14 @@
-### Robson 👋
+### Robson 
 
-- 😃 I'm a trained researcher in Mathematics turned to Data Science. 
+- 👋 Hi there, I'm a trained researcher in Mathematics turned to Data Science 😃. 
 
-- ✍🏽 I enjoy solving problems and I'm fascinated by the challenges facing Data Science and Machine Learning.
+- ✍🏽 I enjoy solving problems and I'm fascinated by the challenges facing Data Science and Machine Learning 😎.
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 🌱 I’m currently learning Machine Learning and Deep Learning 🧐.
 
-- 👯 I’m open to collaborating with any project facing DS/ML/DL.
+- 👯 I’m open to collaborating with any project facing DS/ML/DL 💪🏼.
 
-- 📫 Get in Touch: 
+- 📫 Get in Touch 🙏🏼: 
 
 - LinkedIn: [https://www.linkedin.com/in/robnascimento/](robnascimento)
 
