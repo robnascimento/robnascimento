@@ -8,12 +8,6 @@
 
 - 👯 I’m open to collaborating with any project facing DS/ML/DL.
 
-- 📫 How to reach me: 
-
-- <a class="icon-linkedin social-button grey social-button color" href="https://www.linkedin.com/in/robnascimento/"><\a>robnascimento
-
-- <a class="fa \faEnvelope" href="grosbno@gmail.com"><\a>grosbno@gmail.com
-
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
