@@ -10,8 +10,8 @@
 
 - 📫 How to reach me: 
 
-- <span class="fa fa-twitter"></span>
-  Sign in with Twitter
+- [robnascimento]("https://www.linkedin.com/in/robnascimento/")
+
 
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
