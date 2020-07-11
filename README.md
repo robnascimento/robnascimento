@@ -10,7 +10,7 @@
 
 - 📫 Get in Touch 🙏🏼: 
 
-- LinkedIn: [https://www.linkedin.com/in/robnascimento/]robnascimento
+- LinkedIn: [robnascimento](https://www.linkedin.com/in/robnascimento/)
 
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
