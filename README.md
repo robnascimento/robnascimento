@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+- 😃 I'm a trained researcher in Mathematics turned to Data Science. 
+
+- ✍🏽 I enjoy solving problems and I'm fascinated by the challenges facing Data Science and Machine Learning.
+
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+
+- 👯 I’m open to collaborating with any project facing DS/ML/DL.
+
+- 📫 How to reach me: 
+
+- class="fa \faLinkedin" [https://www.linkedin.com/in/robnascimento/](robnascimento)
+
+- class="fa \faEnvelope" [grosbno@gmail.com](grosbno@gmail.com)
+
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
