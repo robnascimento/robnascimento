@@ -10,10 +10,9 @@
 
 - 📫 How to reach me: 
 
-- <a class="btn btn-block btn-social btn-twitter">
-  <span class="fa fa-twitter"></span>
+- <span class="fa fa-twitter"></span>
   Sign in with Twitter
-</a>
+
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
