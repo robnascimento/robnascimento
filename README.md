@@ -8,6 +8,10 @@
 
 - 👯 I’m open to collaborating with any project facing DS/ML/DL.
 
+- [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
