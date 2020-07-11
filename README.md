@@ -1,4 +1,4 @@
-### Hi there 👋
+### Robson 👋
 
 - 😃 I'm a trained researcher in Mathematics turned to Data Science. 
 
@@ -8,10 +8,9 @@
 
 - 👯 I’m open to collaborating with any project facing DS/ML/DL.
 
-- 📫 How to reach me: 
+- 📫 Get in Touch: 
 
-- [robnascimento]("https://www.linkedin.com/in/robnascimento/")
-
+- LinkedIn: [https://www.linkedin.com/in/robnascimento/](robnascimento)
 
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
