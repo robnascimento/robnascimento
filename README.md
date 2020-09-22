@@ -1,14 +1,14 @@
 ### Robson 
 
-- 👋 Hi there, I'm a trained researcher in Mathematics turned to Data Science 😃. 
+- 👋 Hi there, I'm a trained researcher in Mathematics transitioning into Data Science and Financial Machine Learning 
 
-- ✍🏽 I enjoy solving problems and I'm fascinated by the challenges facing Data Science and Machine Learning 😎.
+- ✍🏽 I enjoy solving Math and Logic Puzzles, and I'm fascinated with the applications of Data Science, Machine Learning, and Deep Learning to Finance
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning 🧐.
+- 🌱 I’m currently learning ML/PL
 
-- 👯 I’m open to collaborating with any project facing DS/ML/DL 💪🏼.
+- 👯 I’m open to collaborating with any project facing DS/ML/DL 💪🏼
 
-- 📫 Get in Touch 🙏🏼: 
+- 📫 Get in Touch 🙏🏼 
 
 - LinkedIn: [robnascimento](https://www.linkedin.com/in/robnascimento/)
 
