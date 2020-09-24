@@ -4,7 +4,7 @@
 
 - ✍🏽 I enjoy solving Math and Logic Puzzles, and I'm fascinated with the applications of Data Science, Machine Learning, and Deep Learning to Finance
 
-- 🌱 I’m currently learning ML/PL
+- 🌱 I’m currently learning DL
 
 - 👯 I’m open to collaborating with any project facing DS/ML/DL 💪🏼
 
