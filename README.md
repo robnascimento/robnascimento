@@ -4,7 +4,7 @@
 
 - ✍🏽 I enjoy solving Math and Logic Puzzles, and I'm fascinated with the applications of Data Science and Machine Learning to Finance
 
-- 📫 Get in Touch [![in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robnascimento/)
+- 📫 Get in Touch [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robnascimento/)
 
 <!--
 **robnascimento/robnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
